@@ -8,7 +8,6 @@ const TextBox = ({
   placeholder,
   id,
   value,
-
   onChange,
   name,
 }) => {
